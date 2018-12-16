@@ -1,0 +1,29 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Alexa Calorie APP",
+  "main": "C:\\Alexa",
+  "dependencies": {
+    "alexa-app-server": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git add ."
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "-m",
+    "\"added",
+    "procfile",
+    "and",
+    "server.js\""
+  ],
+  "author": "git push origin master",
+  "license": "ISC"
+}
